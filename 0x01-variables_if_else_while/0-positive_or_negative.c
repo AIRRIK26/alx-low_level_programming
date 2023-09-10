@@ -3,6 +3,13 @@
 /* more headers goes there */
 #include <stdio.h>
 /* betty style doc for function main goes there */
+/**
+ * main - Entry point of the program
+ *
+ * This program generates a random number and determines its sign.
+ *
+ * Return: 0
+ */
 int main(void)
 {
 	int n;
