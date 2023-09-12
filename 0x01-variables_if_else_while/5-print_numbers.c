@@ -3,22 +3,19 @@
 /**
  * main - Entry point
  *
- * Description: This program prints the lowercase alphabet, excluding 'e' and 'q',
- * followed by a newline character using only the putchar function.
+ * This program prints all single numbers in base 10,
+ * starts from 0 and followed by a new line.
  *
- * Return: Always 0 (Success)
+ * Return: Always 0
  */
 int main(void)
 {
-	char c;
+	int number;
 
-	for (c = 'a'; c <= 'z'; c++)
+	for (number = 0; number <= 9; number++)
 	{
-	if (c != 'e' && c != 'q')
-	{
-	putchar(c);
-}
-}
+	putchar(number + '0');
+	}
 
 	putchar('\n');
 

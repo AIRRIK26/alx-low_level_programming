@@ -3,7 +3,7 @@
 /**
  * main - Entry point
  *
- * Description: This program prints the lowercase alphabet, excluding 'e' and 'q',
+ * This program prints the lowercase alphabet, excluding 'e' and 'q',
  * followed by a newline character using only the putchar function.
  *
  * Return: Always 0 (Success)
