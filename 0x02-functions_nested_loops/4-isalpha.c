@@ -1,9 +1,9 @@
 #include "main.h"
 
 /**
- * main - enrty point of code 
- *
- * c: is c an integer argument ? 
+ * main - enrty point of code
+ * _isalpha checks if is upper or lowecase
+ * @c: is c an integer argument ?
  *
  * Return: Always 0.
  */
