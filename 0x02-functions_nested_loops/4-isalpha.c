@@ -3,8 +3,7 @@
 /**
  * _isalpha - checks if is upper or lowecase
  *
- * @c: the characterr to be checked 
- *
+ * @c: the characterr to be checked
  * Return: Always 0.
  */
 
