@@ -1,9 +1,9 @@
 #include "main.h"
 
 /**
- * 
- * @n: prints new line
- * Return;: Always  0.
+ * print_alphabet - it is for the alphabet casing
+ * @n: new line
+ * Return: Always  0.
  */
 
 void print_alphabet(void)
