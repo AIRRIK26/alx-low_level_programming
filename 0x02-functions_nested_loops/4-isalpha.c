@@ -1,9 +1,9 @@
 #include "main.h"
 
 /**
- * _isalpha checks if is upper or lowecase
+ * _isalpha - checks if is upper or lowecase
  *
- * @c: is c an integer argument
+ * @c: the characterr to be checked 
  *
  * Return: Always 0.
  */
