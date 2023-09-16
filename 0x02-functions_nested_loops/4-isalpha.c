@@ -2,7 +2,8 @@
 
 /**
  * _isalpha checks if is upper or lowecase
- * @c: is c an integer argument ?
+ *
+ * @c: is c an integer argument
  *
  * Return: Always 0.
  */
