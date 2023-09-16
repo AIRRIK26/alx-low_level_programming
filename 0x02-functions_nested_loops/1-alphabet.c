@@ -2,7 +2,6 @@
 
 /**
  * print_alphabet - it is for the alphabet casing
- * @ch: verible
  *
  * Return: Always  0.
  */
